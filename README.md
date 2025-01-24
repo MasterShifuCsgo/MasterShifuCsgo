@@ -4,7 +4,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=MasterShifuCsgo&color=blue)
 ![GitHub Streak](https://streak-stats.demolab.com?user=MasterShifuCsgo&theme=monokai&hide_border=true)
 
-## 💻 Tech Stack:
+## Languages Consistently in use:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
