@@ -1,10 +1,9 @@
 
-# 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I+am+Kaspar!;Software+Development;Life+is+what+you+make+of+it)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I+am+...!;Software+Development;Life+is+what+you+make+of+it)](https://git.io/typing-svg)
 ![Visitor Count](https://komarev.com/ghpvc/?username=MasterShifuCsgo&color=blue)
 ![GitHub Streak](https://streak-stats.demolab.com?user=MasterShifuCsgo&theme=monokai&hide_border=true)
 
-## Languages Consistently in use:
+## 📚 Languages Consistently in Use:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
