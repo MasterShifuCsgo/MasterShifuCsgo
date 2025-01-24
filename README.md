@@ -1,7 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I+am+...!;Software+Development;Life+is+what+you+make+of+it)](https://git.io/typing-svg)
 ![Visitor Count](https://komarev.com/ghpvc/?username=MasterShifuCsgo&color=blue)
-![GitHub Streak](https://streak-stats.demolab.com?user=MasterShifuCsgo&theme=monokai&hide_border=true)
+
+I am an aspiting Software Developer.
 
 ## 📚 Languages Consistently in Use:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
