@@ -1,6 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I+am+...!;Software+Development;)](https://git.io/typing-svg)
-![Visitor Count](https://komarev.com/ghpvc/?username=MasterShifuCsgo&color=blue)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2555&pause=5000&center=true&vCenter=true&width=437&lines=i+am+a+...+software+developer;Sleeping+software+developer)](https://git.io/typing-svg)
 
 I am an sleeping Software Developer.
 
