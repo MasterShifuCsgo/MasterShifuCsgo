@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2555&pause=5000&center=true&vCenter=true&width=437&lines=i+am+a+...+software+developer;Sleeping+software+developer)](https://git.io/typing-svg)
 
-I am an sleeping Software Developer.
+I am a sleeping Software Developer.
 
 ## 📚 Languages Consistently in Use:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
