@@ -20,7 +20,13 @@ Former Chief Architect of Low-Level Determinism at the International Consortium 
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterShifuCsgo&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff
+
+[![Top Langs: Undefined Behavior Edition](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterShifuCsgo&layout=donut-vertical&theme=dark&langs_count=20&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,MasterShifuCsgo.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
