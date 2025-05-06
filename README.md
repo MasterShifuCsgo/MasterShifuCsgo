@@ -1,7 +1,15 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2555&pause=5000&center=true&vCenter=true&width=437&lines=i+am+a+...+software+developer;Sleeping+software+developer)](https://git.io/typing-svg)
+"Experience"
+Director of Asynchronous Interface Realignment for Holistic Web Ecosystem Responsiveness as it Pertains to Semantic User Cohesion and Scalable Behavioral Pattern Deployment via the Abstract Syntax Sustainability Initiative
+Former Chief Architect of Low-Level Determinism at the International Consortium for Contextual Dependency Modeling and Recursive Failure Forecasting. Principal Coordinator of Model Performance Degradation at the Regression Olympics
 
-I am a sleeping Software Developer.
+Currently Specializing In:
+– Enterprise-Grade Disorientation & High-Friction Systems Engineering
+– Commit-Driven Chaos Propagation (Force Push & Pray Methodology)
+– Verbose Abstractionism (as Generally Mapped onto Nonlinear Cubic Guesswork)
+– Stateful Liquefaction of Previously Solid Architecture
+– Recursive Analytical Analysis of Redundant Insights
+– R.A.T.S.™ – Rapid Autonomous Test Subjects (Mostly for Cheese-Oriented Scenarios)
 
 ## 📚 Languages Consistently in Use:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
