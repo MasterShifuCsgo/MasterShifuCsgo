@@ -4,12 +4,12 @@ Director of Asynchronous Interface Realignment for Holistic Web Ecosystem Respon
 Former Chief Architect of Low-Level Determinism at the International Consortium for Contextual Dependency Modeling and Recursive Failure Forecasting. Principal Coordinator of Model Performance Degradation at the Regression Olympics
 
 ## Currently Specializing In:
-– Enterprise-Grade Disorientation & High-Friction Systems Engineering
-– Commit-Driven Chaos Propagation (Force Push & Pray Methodology)
-– Verbose Abstractionism (as Generally Mapped onto Nonlinear Cubic Guesswork)
-– Stateful Liquefaction of Previously Solid Architecture
-– Recursive Analytical Analysis of Redundant Insights
-– R.A.T.S.™ – Rapid Autonomous Test Subjects (Mostly for Cheese-Oriented Scenarios)
+– Enterprise-Grade Disorientation & High-Friction Systems Engineering<br>
+– Commit-Driven Chaos Propagation (Force Push & Pray Methodology)<br>
+– Verbose Abstractionism (as Generally Mapped onto Nonlinear Cubic Guesswork)<br>
+– Stateful Liquefaction of Previously Solid Architecture<br>
+– Recursive Analytical Analysis of Redundant Insights<br>
+– R.A.T.S.™ – Rapid Autonomous Test Subjects (Mostly for Cheese-Oriented Scenarios)<br>
 
 ## 📚 Languages Consistently in Use:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
