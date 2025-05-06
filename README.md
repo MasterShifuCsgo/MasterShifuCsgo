@@ -1,7 +1,7 @@
 
 # "Experience"
 Director of Asynchronous Interface Realignment for Holistic Web Ecosystem Responsiveness as it Pertains to Semantic User Cohesion and Scalable Behavioral Pattern Deployment via the Abstract Syntax Sustainability Initiative.
-Former Chief Architect of Low-Level Determinism at the International Consortium for Contextual Dependency Modeling and Recursive Failure Forecasting. Principal Coordinator of Model Performance Degradation at the Stack Overflow Olimpics.
+Former Chief Architect of Low-Level Determinism at the International Consortium for Contextual Dependency Modeling and Recursive Failure Forecasting. Principal Coordinator of Model Performance Degradation at the Stack Overflow Olympics.
 
 ## Currently Specializing In:
 – Enterprise-Grade Disorientation & High-Friction Systems Engineering<br>
