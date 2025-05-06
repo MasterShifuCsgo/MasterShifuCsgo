@@ -1,9 +1,10 @@
 
-"Experience"
+# "Experience"
+---
 Director of Asynchronous Interface Realignment for Holistic Web Ecosystem Responsiveness as it Pertains to Semantic User Cohesion and Scalable Behavioral Pattern Deployment via the Abstract Syntax Sustainability Initiative
 Former Chief Architect of Low-Level Determinism at the International Consortium for Contextual Dependency Modeling and Recursive Failure Forecasting. Principal Coordinator of Model Performance Degradation at the Regression Olympics
 
-Currently Specializing In:
+## Currently Specializing In:
 – Enterprise-Grade Disorientation & High-Friction Systems Engineering
 – Commit-Driven Chaos Propagation (Force Push & Pray Methodology)
 – Verbose Abstractionism (as Generally Mapped onto Nonlinear Cubic Guesswork)
