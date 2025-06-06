@@ -21,6 +21,9 @@ Former Chief Architect of Low-Level Determinism at the International Consortium 
 
 [![Top Langs: Undefined Behavior Edition](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterShifuCsgo&layout=donut-vertical&theme=dark&langs_count=20&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,MasterShifuCsgo.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
+# More
+
+i have a project called "my-lifelong-project". it consists of a database, webserver and API. if you would like to know more, find a way to contact me!
 
 
 
