@@ -19,7 +19,11 @@ Former Chief Architect of Low-Level Determinism at the International Consortium 
 
 ## 📊 GitHub Stats:
 
-[![Top Langs: Undefined Behavior Edition](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterShifuCsgo&layout=donut-vertical&theme=dark&langs_count=20&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,MasterShifuCsgo.github.io)](https://github.com/anuraghazra/github-readme-stats)
+![Kaspar Bergert's GitHub stats](https://github-readme-stats.vercel.app/api?username=mastershifucsgo&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+
+
+
+
 
 
 
