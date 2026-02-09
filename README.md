@@ -1,21 +1,19 @@
 
 # "Experience"
-Director of Asynchronous Interface Realignment for Holistic Web Ecosystem Responsiveness as it Pertains to Semantic User Cohesion and Scalable Behavioral Pattern Deployment via the Abstract Syntax Sustainability Initiative.
-Former Chief Architect of Low-Level Determinism at the International Consortium for Contextual Dependency Modeling and Recursive Failure Forecasting. Principal Coordinator of Model Performance Degradation at the Stack Overflow Olympics.
+Practiconer of web development, backend and frontend.
 
-## Currently Specializing In:
-– Enterprise-Grade Disorientation & High-Friction Systems Engineering<br>
-– Commit-Driven Chaos Propagation (Force Push & Pray Methodology)<br>
-– Verbose Abstractionism (as Generally Mapped onto Nonlinear Cubic Guesswork)<br>
-– Stateful Liquefaction of Previously Solid Architecture<br>
-– Recursive Analytical Analysis of Redundant Insights<br>
-– R.A.T.S.™ – Rapid Autonomous Test Subjects (Mostly for Cheese-Oriented Scenarios)<br>
 
 ## 📚 Languages Consistently in Use:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+
 
 ## 📊 GitHub Stats:
 
