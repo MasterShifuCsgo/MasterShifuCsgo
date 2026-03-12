@@ -8,6 +8,7 @@ Practiconer of web development, backend and frontend.
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
 ## 📚 Technologies i have used in my projects:
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
